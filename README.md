@@ -1,4 +1,4 @@
-# Breast-Cancer-Wisconsin-Factor-Analysis
+# Breast Cancer Wisconsin: Factor Analysis
 
 # Introduction
 
