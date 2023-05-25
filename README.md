@@ -737,7 +737,7 @@ $gp
 $method
 [1] "pearson"
 ~~~
-# # Factor analysis
+# Factor analysis
 
  We can safely assume that the independent variable has a high degree of correlation.
  and let's check the suitability for factor analysis.
